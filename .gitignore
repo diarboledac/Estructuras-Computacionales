@@ -27,3 +27,9 @@ Release/
 # OS
 Thumbs.db
 .DS_Store
+
+# Certificados y claves (no subir)
+rootCA.crt
+*.pem
+*.key
+*.crt
